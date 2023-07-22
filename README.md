@@ -2,6 +2,8 @@
 
 •	Utilised data analysis techniques, especially in time series analysis, to give insightful information and create interactive dashboards that led to commercial success.
 
+•	Data transformation using Power Query, data model,Created Measures calculations using DAX expression and visualization.
+
 •	Dashboard creation - Identified the KPIs, created a user-friendly and aesthetically pleasing dashboard, incorporated interactive visualisation and filtering capabilities to allow users to explore the data at multiple levels of granuity.
 
 •	Data analysis - Provided valuable insights to business entities regarding the effectiveness of their sales strategies through visualisation and chart.
